@@ -11,4 +11,9 @@ I used delegate-protocol method to return a time result in seconds, from this pi
 |<img src="https://user-images.githubusercontent.com/66600969/169834329-c6431e48-455c-4e04-be60-fa6155a9fed5.png" width=30% height=30%> |
 
 
+
+# How to change the picker to non infinite?
+
+Just change amount of number of rows to desirable.
+
 *P.S. Later I update this file with info, how to make non-infinite picker.*
